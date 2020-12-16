@@ -1,9 +1,9 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-
+This report aims to show how Kickstarter campaigns performed based on their launch dates and their funding goals. 
 ### Purpose
-
+The client needs to understand Kickstarter campaigns, specifically campaigns categorized as plays. 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
