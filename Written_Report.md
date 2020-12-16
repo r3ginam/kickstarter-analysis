@@ -7,8 +7,12 @@ The client needs to understand Kickstarter campaigns, specifically campaigns cat
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+<img src="kickstarter-analysis/Theater_Outcomes_vs_Launch.png">
+![](kickstarter-analysis/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+
+![](kickstarter-analysis/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
