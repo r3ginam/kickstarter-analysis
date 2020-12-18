@@ -23,13 +23,13 @@ During the analysis of this data set, the Excel program froze. This is likely du
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-The month with the overall most successful outcomes for campaigns is May. The month with the most failed outcomes is October.
+   * The month with the overall most successful outcomes for campaigns is May. The month with the most failed outcomes is October.
 
 - What can you conclude about the Outcomes based on Goals?
-Projects with goals less than $1000 have the highest rate of successful outcomes. Projects with goals between $15,000 and $19,999 have an equal chance of succeeding or failing. 
+   * Projects with goals less than $1000 have the highest rate of successful outcomes. Projects with goals between $15,000 and $19,999 have an equal chance of succeeding or failing. 
 
 - What are some limitations of this dataset?
-There is very little data for projects that have goals greater than $24999 so the percentage successful and percentage failed above that point may not be accurate or misleading. 
+   * There is very little data for projects that have goals greater than $24999 so the percentage successful and percentage failed above that point may not be accurate or misleading. 
 
 - What are some other possible tables and/or graphs that we could create?
-A different Outcomes Based on Goals chart could be created by using the total amount of projects instead of the amount of projects in each bin. 
+   * A different Outcomes Based on Goals chart could be created by using the total amount of projects instead of the amount of projects in each bin. 
