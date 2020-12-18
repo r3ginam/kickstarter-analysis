@@ -14,7 +14,7 @@ The analyst evaluated a Kickstarter dataset using Excel.
 This chart shows the outcomes (successful, failed, or canceled) of theater Kickstarter campaigns based on the month that their campaigns were launched. The most successful month for theater campaigns is May. Very few theater campaigns get canceled, instead many more fail. The month with the most failed campaigns is October, with 50 total theater campaigns failing. However, December has the fewest successful campaigns. In December, it's about as likely for a theater campaign to fail as it is to succeed, with just 37 successful campaigns and 35 failed ones. 
 ### Analysis of Outcomes Based on Goals
 
-![](Outcomes_vs_Goals.png)
+![](Outcomes_vs_Goals2.png)
 
 
 This chart shows the percentage of successful and failed campaigns based on their goals. Dollar amounts for goals have been grouped into bins to be able to show on a diagram. 
